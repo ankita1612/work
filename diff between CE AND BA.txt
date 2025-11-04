@@ -1,0 +1,7 @@
+CE			    				  BA
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+1)BA | CE Portal 				-----------BA
+business associative and covered entity  
+2)student module 				-----------no student module
+3)so many trainings				---------limited training
+4)dependant with osha while signup		--------no dependant with other

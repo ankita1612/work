@@ -1,0 +1,19 @@
+CE							osha
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1)SRA(security risk analysis)                          FRA(facility risk analysis)
+2)HCO (hipaa compliance officer)		       OSO(osha safety officer)	
+3)training : 					       training: 
+4)Disaster Recovery Plan			       Emergency Action Plan
+5)BA | CE Portal				       Joint Responsibility : from joint-responsibility add vendor and there is vendor portal                 
+6)LOG :Breach Log , Asset Log, Access Log      	       Log : Work-Related Injury & Illnesses, Sharps Injury,Workplace Violence Incident
+7) ---							SDS ibrary
+8)emp portal, student portal                          emp portal, student portal, vendor portal  
+
+
+CE			    				  BA
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+1)BA | CE Portal 				-----------BA
+business associative and covered entity  
+2)student module 				-----------no student module
+3)so many trainings				---------limited training
+4)dependant with osha while signup		--------no dependant with other
